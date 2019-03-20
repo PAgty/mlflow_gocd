@@ -1,0 +1,14 @@
+artifact_uri: /Users/aaron/Documents/mlflow/mlflow_gocd/mlruns/0/954fdcc8683c4ede91e8621545efdb70/artifacts
+end_time: 1553117532852
+entry_point_name: ''
+experiment_id: 0
+lifecycle_stage: active
+name: ''
+run_uuid: 954fdcc8683c4ede91e8621545efdb70
+source_name: train.py
+source_type: 4
+source_version: dd1063b95dbcef7c045970bf89f43fbe092308d1
+start_time: 1553117532745
+status: 3
+tags: []
+user_id: aaron
